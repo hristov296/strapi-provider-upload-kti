@@ -1,0 +1,68 @@
+{
+  "_from": "strapi-provider-upload-local@3.0.0-beta.19.3",
+  "_id": "strapi-provider-upload-local@3.0.0-beta.19.3",
+  "_inBundle": false,
+  "_integrity": "sha512-xMNaMPRGz/z9AxiekpqpprjJfe4hvqRPzH//uThRYECalP7caHjUqKQ9wvMQmqRz1d9KBmosfoJLdDsAnb/S0g==",
+  "_location": "/strapi-provider-upload-local",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "strapi-provider-upload-local@3.0.0-beta.19.3",
+    "name": "strapi-provider-upload-local",
+    "escapedName": "strapi-provider-upload-local",
+    "rawSpec": "3.0.0-beta.19.3",
+    "saveSpec": null,
+    "fetchSpec": "3.0.0-beta.19.3"
+  },
+  "_requiredBy": [
+    "/strapi-plugin-upload"
+  ],
+  "_resolved": "https://registry.npmjs.org/strapi-provider-upload-local/-/strapi-provider-upload-local-3.0.0-beta.19.3.tgz",
+  "_shasum": "89aabb818baf7add5ef561c4222763d06188f273",
+  "_spec": "strapi-provider-upload-local@3.0.0-beta.19.3",
+  "_where": "/var/dev/kti-admin/node_modules/strapi-plugin-upload",
+  "author": {
+    "name": "Hristo Hristov",
+    "email": "hristov296@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "deprecated": false,
+  "description": "Local provider for strapi upload",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "f0028241c8845ee385f2bbc6333052c028666f47",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "upload",
+    "strapi"
+  ],
+  "license": "MIT",
+  "main": "./lib",
+  "maintainers": [
+    {
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "http://strapi.io"
+    }
+  ],
+  "name": "strapi-provider-upload-kti",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "version": "3.0.0-beta.19.3"
+}
